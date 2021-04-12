@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/advice-to-first-years/static/css/main.1a53df69.chunk.css",
-    "main.js": "/advice-to-first-years/static/js/main.37aa7b9d.chunk.js",
-    "main.js.map": "/advice-to-first-years/static/js/main.37aa7b9d.chunk.js.map",
+    "main.js": "/advice-to-first-years/static/js/main.a050103b.chunk.js",
+    "main.js.map": "/advice-to-first-years/static/js/main.a050103b.chunk.js.map",
     "runtime-main.js": "/advice-to-first-years/static/js/runtime-main.6a9407df.js",
     "runtime-main.js.map": "/advice-to-first-years/static/js/runtime-main.6a9407df.js.map",
     "static/css/2.1aa0c885.chunk.css": "/advice-to-first-years/static/css/2.1aa0c885.chunk.css",
-    "static/js/2.9adfee5e.chunk.js": "/advice-to-first-years/static/js/2.9adfee5e.chunk.js",
-    "static/js/2.9adfee5e.chunk.js.map": "/advice-to-first-years/static/js/2.9adfee5e.chunk.js.map",
+    "static/js/2.9aef693d.chunk.js": "/advice-to-first-years/static/js/2.9aef693d.chunk.js",
+    "static/js/2.9aef693d.chunk.js.map": "/advice-to-first-years/static/js/2.9aef693d.chunk.js.map",
     "static/js/3.178af02c.chunk.js": "/advice-to-first-years/static/js/3.178af02c.chunk.js",
     "static/js/3.178af02c.chunk.js.map": "/advice-to-first-years/static/js/3.178af02c.chunk.js.map",
     "index.html": "/advice-to-first-years/index.html",
     "static/css/2.1aa0c885.chunk.css.map": "/advice-to-first-years/static/css/2.1aa0c885.chunk.css.map",
     "static/css/main.1a53df69.chunk.css.map": "/advice-to-first-years/static/css/main.1a53df69.chunk.css.map",
-    "static/js/2.9adfee5e.chunk.js.LICENSE.txt": "/advice-to-first-years/static/js/2.9adfee5e.chunk.js.LICENSE.txt",
+    "static/js/2.9aef693d.chunk.js.LICENSE.txt": "/advice-to-first-years/static/js/2.9aef693d.chunk.js.LICENSE.txt",
     "static/media/Leadspace.dc6bdc91.png": "/advice-to-first-years/static/media/Leadspace.dc6bdc91.png",
     "static/media/semantic.min.css": "/advice-to-first-years/static/media/outline-icons.ddae9b1b.woff",
     "static/media/logo.c4cfa90b.png": "/advice-to-first-years/static/media/logo.c4cfa90b.png",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a9407df.js",
     "static/css/2.1aa0c885.chunk.css",
-    "static/js/2.9adfee5e.chunk.js",
+    "static/js/2.9aef693d.chunk.js",
     "static/css/main.1a53df69.chunk.css",
-    "static/js/main.37aa7b9d.chunk.js"
+    "static/js/main.a050103b.chunk.js"
   ]
 }
