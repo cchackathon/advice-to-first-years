@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/advice-to-first-years/static/css/main.1a53df69.chunk.css",
-    "main.js": "/advice-to-first-years/static/js/main.957cf808.chunk.js",
-    "main.js.map": "/advice-to-first-years/static/js/main.957cf808.chunk.js.map",
+    "main.js": "/advice-to-first-years/static/js/main.955f3205.chunk.js",
+    "main.js.map": "/advice-to-first-years/static/js/main.955f3205.chunk.js.map",
     "runtime-main.js": "/advice-to-first-years/static/js/runtime-main.6a9407df.js",
     "runtime-main.js.map": "/advice-to-first-years/static/js/runtime-main.6a9407df.js.map",
     "static/css/2.1aa0c885.chunk.css": "/advice-to-first-years/static/css/2.1aa0c885.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.1aa0c885.chunk.css",
     "static/js/2.9aef693d.chunk.js",
     "static/css/main.1a53df69.chunk.css",
-    "static/js/main.957cf808.chunk.js"
+    "static/js/main.955f3205.chunk.js"
   ]
 }
