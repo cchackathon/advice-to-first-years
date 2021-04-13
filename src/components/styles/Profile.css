@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+div.page {
+    background-image: url('../../wallpaper.png');
+    left: 0 !important;
+    width: 100% !important;
+    margin: 0px !important;
+    padding: 0px !important;
+    max-width: 100% !important;
+    height: 100%;
+}
+
+div.navBar {
+    height: 50px;
+}
+
+img.logo {
+    width: 15%;
+    float: left;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+div.row {
+    background-color: #e5e5e5;
+    margin: 15px 50px 50px 50px;
+    border-radius: 10px;
+}
+
+div.col {
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    text-align: left;
+}
+
+a.welcome {
+    font-family: "Roboto Mono", monospace;
+    color: black;
+    float: right; 
+    font-size: 15px;
+    margin-right: 25px; 
+    margin-top: 20px;
+}
+
+h3.major {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+h3.year {
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+h3.job {
+    margin-top: 5px;
+}
+
+img.profilepicture {
+    margin-top: 20px;
+}

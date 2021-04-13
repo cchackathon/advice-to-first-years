@@ -1,0 +1,80 @@
+export const UserData = [
+    {
+        id: 0,
+        name: 'Name1',
+        major: 'Major',
+        year: 'Year at Tech',
+        quote: 'Quote',
+        job: 'Job at Tech',
+        welcome: 'Welcome Message',
+        q1: 'words1',
+        q2: 'words2',
+        q3: 'words3',
+        q4: 'words4',
+        q5: 'words5',
+        q6: 'words6',
+        q7: 'words7',
+        image: 'IMG_6179.jpeg',
+        socials: [
+            {linkedin: 'https://www.linkedin.com'},
+            {linkify: 'ly'},
+            {github: 'g'},
+            {instagram: 'i'},
+            {facebook: 'f'},
+            {twitter: 't'},
+            {tiktok: ''}
+        ]
+    },
+    {
+        id: 1,
+        name: 'Name2',
+        major: 'Major',
+        year: 'Year at Tech',
+        quote: 'Quote',
+        job: 'Job at Tech',
+        welcome: 'Welcome Message',
+        q1: 'words1',
+        q2: 'words2',
+        q3: 'words3',
+        q4: 'words4',
+        q5: 'words5',
+        q6: 'words6',
+        q7: 'words7',
+        image: 'dummyphoto.png',
+        socials: [
+            {linkedin: 'l'},
+            {linkify: 'ly'},
+            {github: 'g'},
+            {instagram: 'i'},
+            {facebook: 'f'},
+            {twitter: 't'},
+            {tiktok: ''}
+        ]
+    },
+    {
+        id: 2,
+        name: 'Name3',
+        major: 'Major',
+        year: 'Year at Tech',
+        quote: 'Quote',
+        job: 'Job at Tech',
+        welcome: 'Welcome Message',
+        q1: 'words1',
+        q2: 'words2',
+        q3: 'words3',
+        q4: 'words4',
+        q5: 'words5',
+        q6: 'words6',
+        q7: 'words7',
+        image: 'dummyphoto.png',
+        socials: [
+            {linkedin: 'l'},
+            {linkify: 'ly'},
+            {github: 'g'},
+            {instagram: 'i'},
+            {facebook: 'f'},
+            {twitter: 't'},
+            {tiktok: ''}
+        ]
+    }
+];
